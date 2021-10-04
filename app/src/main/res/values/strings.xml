@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumbersGameApp</string>
+    <string name="textview">TextView</string>
+    <string name="input">Name</string>
+    <string name="guessBtn">Guess</string>
+    <string name="txtView">txtView</string>
+</resources>
